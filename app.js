@@ -1,3 +1,7 @@
+// Noushig Chitjian
+// Lab 01
+// Date : 18 Sept. 2020
+
 const questionNumber = document.querySelector(".question-number");
 const questionText = document.querySelector(".question-text");
 const optionContainer = document.querySelector(".option-container");
