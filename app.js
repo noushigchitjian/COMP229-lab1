@@ -22,7 +22,7 @@ function getNewQuestion(){
     questionText.innerHTML = currentQuestion.q;
     const index1 = availableQuestions.indexOf(questionIndex);
     availableQuestions.splice(index1,1);
-    const optionLen = currentQuestion.option.length
+    const optionLen = currentQuestion.options.length
    
     for (let i=0; i<optionLen; i++){
       availableOptions.push(i)  
