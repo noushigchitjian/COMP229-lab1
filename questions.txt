@@ -1,0 +1,59 @@
+Q1-Which month are we in now?
+   option 0 : March
+   option 1 : June
+   option 2 : September
+   option 3 : December
+
+Q2-What do red and yellow make?
+   option 0 : red
+   option 1 : purple
+   option 2 : orange
+   option 3 : none of the above
+
+Q3-How many keys are found on a normal keyboard?
+   option 0 : 89
+   option 1 : 104
+   option 2 : 152
+   option 3 : 89
+
+Q4-I like Basketball
+   option 0 : me too
+   option 1 : i don't
+   option 2 : that's not even a question
+   option 3 : none of the above
+
+Q5-How long is a normal narwhal tooth?
+   option 0 : 1-3 feet
+   option 1 : 3-6 feet
+   option 2 : 6-9 feet
+   option 3 : 12-15 feet
+
+Q6-What is the smallest country in the world?
+   option 0 : Canada
+   option 1 : Brazil   
+   option 2 : Armenia
+   option 3 : Vatican City
+
+Q7-Why did the chicken cross the road?
+   option 0 : to get to the other side
+   option 1 : to play with a friend
+   option 2 : to find some food
+   option 3 : none of the above
+
+Q8-what is Superman's real name?
+   option 0 : Jhon jhon
+   option 1 : Clark Kent
+   option 2 : Steven Clark
+   option 3 : Kent joe
+
+Q9-calculate the following and find the answer 9*9-25=
+   option 0 : 81
+   option 1 : 49
+   option 2 : 56
+   option 3 : 43
+
+Q10-There are 45 apples in your basket. You take three apples out of the basket. How many apples are left?
+   option 0 : 3
+   option 1 : 45
+   option 2 : 42   
+   option 3 : 41
